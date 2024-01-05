@@ -1,0 +1,13 @@
+Erros are values.
+Don't just check erros, handle them gracefully.
+Don't panic.
+Make the zero value useful.
+The bigger the interface, the weaker the abstraction.
+interface{} says nothing.
+Goftm's style is no one's favorite, yet goftm is everyone's favorite.
+Documentation is for users.
+A little copying is better than a little dependency.
+Clear is better than clever.
+Concurrency is not parallelism.
+Don't communicate by sharing memory, share memory by communicating.
+Channels orchestrate; mutexes serialize.
